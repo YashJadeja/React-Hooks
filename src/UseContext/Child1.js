@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import MyContext from "./MyContext";
 
-const ChildComponent = () => {
+const Child1 = () => {
   const { name, surName } = useContext(MyContext);
 
   return (
@@ -11,4 +11,4 @@ const ChildComponent = () => {
   );
 };
 
-export default ChildComponent;
+export default Child1;

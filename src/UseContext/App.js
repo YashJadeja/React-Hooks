@@ -1,6 +1,6 @@
 import React from "react";
 import MyContext from "./MyContext";
-import ChildComponent from "./ChildComponent";
+import ChildComponent from "./Child1";
 import Child2 from "./Child2";
 import MyComponent from "./MyComponent";
 
